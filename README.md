@@ -14,3 +14,5 @@ Logging System: Server logs all messages with timestamps in a JSON file, retriev
 Interactive Client UI: Clients can send encrypted messages, disconnect gracefully, or retrieve recent message history.
 
 Tech Stack: Python, Sockets, AES (PyCryptodome), Diffie–Hellman Key Exchange, JSON
+
+ Finished early - mid 2025
