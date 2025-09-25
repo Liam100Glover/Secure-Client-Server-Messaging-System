@@ -1,0 +1,13 @@
+Welcome to my networks and secrity IoT project. The inspiration for this came from the idea that 
+smart medical devices would need a secure channel to transfer data from a pateints house
+to the medical office server. This is a real life scenario and my project (when adjusted to
+this scenario) would suffice this criteria. For example purposes I have changed this to a secure
+messaging service between a client and server.
+
+The zip includes the main server as well as multiple clients. You can choose to either run 
+multiple instances of a client through cmd or just run each client file, its up to you. The json file 
+is to be left untouched as this stores data between sessions. To start it up launch the server.py file
+after this launch any client you want to connect and follow the instructions on the terminal.
+
+Thank You
+- 100617493
